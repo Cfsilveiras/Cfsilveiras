@@ -12,7 +12,7 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)    
 
 STATUS DO MEU GIT!
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Cfsilveiras&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cfsilveiras&show_icons=true&theme=dark)
 
 CASO QUEIRA AQUI ESTÁ MEUS CONTATOS! 
 ### Contato  
