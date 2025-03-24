@@ -14,7 +14,8 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 ### Linguagens!  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)    
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
 
 
 CASO QUEIRA AQUI ESTÁ MEUS CONTATOS! 
