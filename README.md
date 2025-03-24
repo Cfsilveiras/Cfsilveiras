@@ -14,7 +14,7 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
 CASO QUEIRA AQUI ESTÁ MEUS CONTATOS! 
 ### Contato  
-📧 Email: devfilipesilveira@hotmai.com 
+📧 Email: devfilipesilveira@hotmail.com 
 💼 [LinkedIn](https://www.linkedin.com/in/devfilipesilveira/)
 
 ![VISÃO DE PERFIL ](https://komarev.com/ghpvc/?username=Cfsilveiras&color=blue)
