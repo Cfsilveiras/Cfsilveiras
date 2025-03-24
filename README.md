@@ -1,9 +1,12 @@
 Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
 ### Quem eu sou!
-😁 Meu nome é Carlos Silveira
-🎂 26 Anos
-💨 Sou de Sao Paulo
+😁 Meu nome é Carlos Silveira.
+
+🎂 26 Anos.
+
+💨 Sou de Sao Paulo.
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
 💻 Aprendendo e desenvolvendo projetos com **React.js, TypeScript e Tailwind CSS**.  
 📚 Buscando aprimorar minhas habilidades em desenvolvimento web.
