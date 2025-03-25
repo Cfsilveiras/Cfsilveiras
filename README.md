@@ -26,6 +26,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cfsilveiras/Cfsilveiras/output/snake.svg" alt="Snake animation" />
 
 ###
