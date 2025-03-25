@@ -26,5 +26,5 @@ CASO QUEIRA AQUI ESTÁ MEUS CONTATOS!
 ![VISÃO DE PERFIL ](https://komarev.com/ghpvc/?username=Cfsilveiras&color=blue)
 
 
-STATUS DO MEU GIT!
+STATUS DO MEU GIT!<br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cfsilveiras&show_icons=true&theme=dark)
